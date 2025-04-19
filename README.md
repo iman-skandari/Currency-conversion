@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# Currency-conversion 
+تبدیل واحد پول دلار به ریال انجام شد و سپس برای بهتر شدن کار تبدیل واحدهای دیگری نیز اضافه شد
+>>>>>>> 2299b0a566f68ccce04a8d5e87195a530d1a6bdb
